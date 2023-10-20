@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dog-react/static/css/main.55c08c44.css",
+    "main.js": "/dog-react/static/js/main.130f6c3f.js",
+    "index.html": "/dog-react/index.html",
+    "main.55c08c44.css.map": "/dog-react/static/css/main.55c08c44.css.map",
+    "main.130f6c3f.js.map": "/dog-react/static/js/main.130f6c3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55c08c44.css",
+    "static/js/main.130f6c3f.js"
+  ]
+}
